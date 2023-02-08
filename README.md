@@ -1,2 +1,2 @@
-# 2.2. El primer escenario
- Crearás una ventana que se adapte a diferentes tamaños para una aplicación interactiva.
+# 2.3. Programación de botones
+ ## Crearás una ventana que se adapte a diferentes tamaños para una aplicación interactiva.
